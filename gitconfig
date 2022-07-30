@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = zhennizhou6@gmail.com
+	name = zhenni zhou
